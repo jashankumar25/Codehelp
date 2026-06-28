@@ -20,3 +20,4 @@ public:
         return {-1, -1};
     }
 };
+https://www.geeksforgeeks.org/dsa/pair-with-given-sum-in-sorted-array-two-sum-ii/
