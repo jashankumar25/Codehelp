@@ -25,9 +25,8 @@ public:
 
         int n = nums.size();
 
-        // Step 1 : Partition
-        int left = 0;
-        int right = n - 1;
+        // Step 1: Partition positives and negatives
+        int left = 0, right = n - 1;
 
         while (left <= right) {
 
@@ -41,14 +40,13 @@ public:
                 swap(nums[left], nums[right]);
         }
 
-        // Step 2 : Rearrange
-        int pos = 1;
-        int neg = n / 2;
+        // left is the index of the first negative element
+        int pos = 1;     // Odd indices
+        int neg = left;  // First negative
 
+        // Step 2: Place negatives at odd indices
         while (pos < n && neg < n) {
-
             swap(nums[pos], nums[neg]);
-
             pos += 2;
             neg++;
         }
