@@ -3,10 +3,11 @@ public:
     int majorityElement(vector<int>& nums) {
         int count = 0;
         int candidate = 0;
-
+        //Approach 4: Moore's Voting Algorithm (Optimal)
         for (int i = 0; i < nums.size(); i++) {
             if (count == 0) {
                 candidate = nums[i];
+    
             }
             if (nums[i] == candidate)
                 count++;
