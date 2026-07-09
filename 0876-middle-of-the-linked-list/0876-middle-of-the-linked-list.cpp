@@ -10,7 +10,23 @@
  */
 class Solution {
 public:
-    int countnode(ListNode* head) {
+    ListNode* middleNode(ListNode* head) {
+        if (head == nullptr)
+            return nullptr;
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
+    }
+};
+
+/*
+----------------------------------------
+int countnode(ListNode* head) {
         int count = 0;
         ListNode* temp = head;
 
@@ -27,12 +43,12 @@ public:
 
         int cnt = 0;
 
-        while(cnt < mid)
-        {
+        while (cnt < mid) {
             temp = temp->next;
             cnt++;
         }
 
         return temp;
     }
-};
+---------------------------------------------
+*/
