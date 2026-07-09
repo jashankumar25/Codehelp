@@ -43,4 +43,45 @@ public:
         }
         return false;
     }
+class Solution {
+public:
+    bool isCircular(Node *head) {
+
+        if (head == NULL)
+            return true;
+
+        Node* temp = head->next;
+
+        while (temp != NULL && temp != head) {
+            temp = temp->next;
+        }
+
+        if (temp == head)
+            return true;
+
+        return false;
+    }
+};class Solution {
+public:
+    bool isCircular(Node *head) {
+
+        if(head == NULL)
+            return true;
+
+        if(head->next == NULL)
+            return false;
+
+        Node* temp = head;
+
+        while(temp != NULL && temp->next != head)
+        {
+            temp = temp->next;
+        }
+
+        if(temp == NULL)
+            return false;
+
+        return true;
+    }
+};
 */
