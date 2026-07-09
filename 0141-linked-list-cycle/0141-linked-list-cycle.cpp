@@ -6,8 +6,28 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-class Solution {
+ class Solution {
 public:
+    bool hasCycle(ListNode* head) {
+
+        if (head == NULL)
+            return false;
+
+        unordered_map<ListNode*, int> visited;
+
+        ListNode* temp = head;
+
+        while (temp != NULL) { // cycle is prsendt
+            if (visited[temp] == 1) {
+                return 1;
+            }
+            visited[temp] = 1;
+            temp = temp->next;
+        }
+        return  false;
+    }
+};
+/*
     bool hasCycle(ListNode* head) {
         if(head==nullptr)
         return  false;
@@ -23,4 +43,4 @@ public:
         }
         return false;
     }
-};
+*/
