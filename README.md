@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/jashankumar25/Codehelp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/jashankumar25/Codehelp/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/jashankumar25/Codehelp/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
