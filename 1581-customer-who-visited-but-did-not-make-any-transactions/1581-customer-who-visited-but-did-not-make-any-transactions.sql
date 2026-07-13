@@ -5,3 +5,13 @@ left join Transactions as t
 on v.visit_id=t.visit_id
 where t.amount is null
 group by v.customer_id;
+/*SELECT customer_id,
+       COUNT(*) AS count_no_trans
+FROM Visits v
+WHERE NOT EXISTS
+(
+    SELECT 1
+    FROM Transactions t
+    WHERE t.visit_id = v.visit_id
+)
+GROUP BY customer_id;*/
