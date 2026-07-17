@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/jashankumar25/Codehelp/tree/master/0901-online-stock-span) |
 ## Union-Find
 |  |
 | ------- |
@@ -136,4 +137,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/jashankumar25/Codehelp/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/jashankumar25/Codehelp/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/jashankumar25/Codehelp/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
