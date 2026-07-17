@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/jashankumar25/Codehelp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jashankumar25/Codehelp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jashankumar25/Codehelp/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/jashankumar25/Codehelp/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jashankumar25/Codehelp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jashankumar25/Codehelp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jashankumar25/Codehelp/tree/master/0128-longest-consecutive-sequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/jashankumar25/Codehelp/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/jashankumar25/Codehelp/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jashankumar25/Codehelp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jashankumar25/Codehelp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/jashankumar25/Codehelp/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/jashankumar25/Codehelp/tree/master/0901-online-stock-span) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/jashankumar25/Codehelp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jashankumar25/Codehelp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jashankumar25/Codehelp/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/jashankumar25/Codehelp/tree/master/0085-maximal-rectangle) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jashankumar25/Codehelp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Math
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/jashankumar25/Codehelp/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/jashankumar25/Codehelp/tree/master/0901-online-stock-span) |
