@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/jashankumar25/Codehelp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jashankumar25/Codehelp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jashankumar25/Codehelp/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jashankumar25/Codehelp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jashankumar25/Codehelp/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jashankumar25/Codehelp/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jashankumar25/Codehelp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jashankumar25/Codehelp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jashankumar25/Codehelp/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jashankumar25/Codehelp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jashankumar25/Codehelp/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
