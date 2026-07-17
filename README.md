@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashankumar25/Codehelp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jashankumar25/Codehelp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jashankumar25/Codehelp/tree/master/0229-majority-element-ii) |
+| [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jashankumar25/Codehelp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jashankumar25/Codehelp/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/jashankumar25/Codehelp/tree/master/0901-online-stock-span) |
 ## Union-Find
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/jashankumar25/Codehelp/tree/master/0901-online-stock-span) |
 ## Design
 |  |
