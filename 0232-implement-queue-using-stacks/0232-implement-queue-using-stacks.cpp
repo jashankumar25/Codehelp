@@ -1,37 +1,39 @@
 class MyQueue {
 public:
-    stack<int> s1;
-    stack<int> s2;
+    stack<int> input;
+    stack<int> output;
+    int peeked = -1;
     MyQueue() {}
 
     void push(int x) {
-        while (!s1.empty()) {
-            s2.push(s1.top());
-            s1.pop();
+        if (input.empty()) {
+            peeked = x;
         }
-
-        s2.push(x);
-
-        while (!s2.empty()) {
-            s1.push(s2.top());
-            s2.pop();
-        }
+        input.push(x);
     }
 
     int pop() {
-        int val = s1.top();
+        if (output.empty()) {
+            while (!input.empty()) {
+                output.push(input.top());
+                input.pop();
+            }
+        }
 
-        s1.pop();
-        return val;
+        int x = output.top();
+        output.pop();
+        return x;
+    }
+    int peek() {
+        while (!output.empty()) {
+            return output.top();
+        }
+        return peeked;
     }
 
-    int peek() { return s1.top(); }
-
-    bool empty() { return s1.empty(); }
+    bool empty() { return input.empty() && output.empty(); }
 };
-/*  "The key optimization is lazy transfer: move elements from the input stack to the output stack only 
-    when the output stack becomes empty. This ensures each element is transferred at most once, 
-    giving amortized O(1) performance for queue operations."
+
 /**
  * Your MyQueue object will be instantiated and called as such:
  * MyQueue* obj = new MyQueue();
