@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/jashankumar25/Codehelp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jashankumar25/Codehelp/tree/master/0229-majority-element-ii) |
 | [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
+| [1441-build-an-array-with-stack-operations](https://github.com/jashankumar25/Codehelp/tree/master/1441-build-an-array-with-stack-operations) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jashankumar25/Codehelp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jashankumar25/Codehelp/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jashankumar25/Codehelp/tree/master/0054-spiral-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/jashankumar25/Codehelp/tree/master/1441-build-an-array-with-stack-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jashankumar25/Codehelp/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/jashankumar25/Codehelp/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/jashankumar25/Codehelp/tree/master/1441-build-an-array-with-stack-operations) |
 ## Union-Find
 |  |
 | ------- |
