@@ -29,7 +29,9 @@ public:
 
     bool empty() { return s1.empty(); }
 };
-
+/*  "The key optimization is lazy transfer: move elements from the input stack to the output stack only 
+    when the output stack becomes empty. This ensures each element is transferred at most once, 
+    giving amortized O(1) performance for queue operations."
 /**
  * Your MyQueue object will be instantiated and called as such:
  * MyQueue* obj = new MyQueue();
