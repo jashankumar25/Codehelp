@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/jashankumar25/Codehelp/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/jashankumar25/Codehelp/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/jashankumar25/Codehelp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jashankumar25/Codehelp/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jashankumar25/Codehelp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jashankumar25/Codehelp/tree/master/0084-largest-rectangle-in-histogram) |
