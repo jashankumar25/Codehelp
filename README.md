@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/jashankumar25/Codehelp/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/jashankumar25/Codehelp/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/jashankumar25/Codehelp/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/jashankumar25/Codehelp/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jashankumar25/Codehelp/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/jashankumar25/Codehelp/tree/master/0053-maximum-subarray) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jashankumar25/Codehelp/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashankumar25/Codehelp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/jashankumar25/Codehelp/tree/master/0704-binary-search) |
 ## Sorting
