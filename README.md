@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashankumar25/Codehelp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jashankumar25/Codehelp/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jashankumar25/Codehelp/tree/master/0229-majority-element-ii) |
+| [0704-binary-search](https://github.com/jashankumar25/Codehelp/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jashankumar25/Codehelp/tree/master/1441-build-an-array-with-stack-operations) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jashankumar25/Codehelp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashankumar25/Codehelp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/jashankumar25/Codehelp/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
