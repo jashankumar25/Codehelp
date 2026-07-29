@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/jashankumar25/Codehelp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/jashankumar25/Codehelp/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/jashankumar25/Codehelp/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jashankumar25/Codehelp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/jashankumar25/Codehelp/tree/master/1441-build-an-array-with-stack-operations) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/jashankumar25/Codehelp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jashankumar25/Codehelp/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashankumar25/Codehelp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jashankumar25/Codehelp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/jashankumar25/Codehelp/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jashankumar25/Codehelp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
