@@ -1,15 +1,6 @@
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
-        int i = 0;
-        int j = arr.size() - 1;
-
-        while (i < j && arr[i] < arr[i + 1]) {
-            i++;
-        }
-        return i;
-    }
-}; /* int peakIndexInMountainArray(vector<int>& arr) {
          int i=0;
          int j=arr.size()-1;
 
@@ -27,6 +18,16 @@ public:
          }
          return i;
      }
+}; /* 
+     int peakIndexInMountainArray(vector<int>& arr) {
+        int i = 0;
+        int j = arr.size() - 1;
+
+        while (i < j && arr[i] < arr[i + 1]) {
+            i++;
+        }
+        return i;
+    }
  int peakIndexInMountainArray(vector<int>& arr) {
          int max=INT_MIN;
          int maxIndex=-1;
