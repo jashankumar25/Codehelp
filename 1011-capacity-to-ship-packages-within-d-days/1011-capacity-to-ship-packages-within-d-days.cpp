@@ -18,6 +18,7 @@ public:
         for (int i = 0; i < weights.size(); i++) {
             j += weights[i];
         }
+        //sum = accumulate(arr.begin(), arr.end(), 0);
         int ans = j;
         while (i <= j) {
             int mid = i + (j - i) / 2;
